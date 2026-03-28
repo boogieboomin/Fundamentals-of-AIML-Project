@@ -6,13 +6,7 @@ My Python tool predicts exam scores based on study hours. I used Pandas to organ
 <p align="center">
   <b>A simple Python project to predict student exam scores based on study hours</b>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue.svg">
-  <img src="https://img.shields.io/badge/Library-Pandas-green.svg">
-  <img src="https://img.shields.io/badge/Level-Beginner-orange.svg">
-</p>
-
+  
 ---
 
 ## Project Overview
