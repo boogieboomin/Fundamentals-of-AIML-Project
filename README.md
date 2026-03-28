@@ -31,7 +31,7 @@ The goal is to help students:
 
 ✔ Predicts exam score instantly  
 ✔ Beginner-friendly logic  
-✔ Uses simple dataset  
+✔ Uses a simple dataset  
 ✔ Interactive user input  
 ✔ Clean and understandable code  
 
@@ -45,8 +45,59 @@ The goal is to help students:
 ---
 
 ## 📂 Project Structure
-student-score-predictor/
+Fundamentals-of-AIML-Project/
 │
-├── main.py # Main Python script
-|__ project report.
+├── main.py # Main Python program
 ├── README.md # Project documentation
+├── project-report.md # Detailed project explanation
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+bash
+git clone https://github.com/boogieboomin/Fundamentals-of-AIML-Project.
+
+###2️⃣ Navigate to the Folder
+cd Fundamentals-of-AIML-Project
+
+###3️⃣ Install Required Libraries
+pip install pandas
+
+###▶️ How to Run
+python main.py
+
+###💡 How It Works
+A dataset of study hours and scores is created
+The program calculates the average increase in marks per hour
+A prediction formula is applied:
+Predicted Score = 50 + (Study Hours × Average Growth)
+The user enters study hours
+The program outputs the predicted score
+
+###🧪 Example Output
+--- Predict Your Result ---
+How many hours did you study? 5
+
+---------------------------------
+Your Predicted Score is: 75.0
+---------------------------------
+
+###📘 Learning Outcomes
+
+Through this project, I learned:
+
+Basics of Artificial Intelligence and Machine Learning
+ Data handling using Pandas
+ Logic building and problem solving
+ Creating simple prediction models
+
+Machine learning allows systems to learn from data and improve predictions without explicit programming.
+
+###👨‍💻 Author
+
+Parth Chouhan
+🎓 B.Tech CSE Student.
+
