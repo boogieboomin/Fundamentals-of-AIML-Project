@@ -75,10 +75,11 @@ The program outputs the predicted score
 
 bash
 --- Predict Your Result ---
-How many hours did you study? 5
+How many hours did you study? - 5
 
 ---------------------------------
 Your Predicted Score: 75.0
+
 ---------------------------------
 
 ### Learning Outcomes
@@ -94,6 +95,6 @@ Machine learning allows systems to learn from data and improve predictions witho
 
 ### Author
 
-Parth Chouhan
+Parth Chouhan,
 B.Tech CSE Student.
 
